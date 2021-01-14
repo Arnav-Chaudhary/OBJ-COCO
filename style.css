@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+    background: linear-gradient(to right, #ED05A0,#F29500);
+font-size: 18px;
+}
+canvas{
+    box-shadow: 10px, 5px ,5px grey;
+    border-radius: 20px;
+    margin-top: 30px;
+    
+}
+
+#object_length{
+    font-size: 18px;
+    color: white;
+background: linear-gradient( to left,#04E0E0,#000000)
+}
